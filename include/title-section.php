@@ -1,5 +1,5 @@
 <div class="container cont1_1">
-  <div class="col-md-7 no-pad">
+  <div class="col-md-6 no-pad">
     <h1>Сертификаты для всех маркетплейсов</h1>
     <p class="first_desc">За 1 день в г. Таганроге <span>сертифицируем все виды продукции</span> с&nbsp;внесением в&nbsp;реестр ФСА и гарантией легитимности</p>
     <div class="col-xs-4 utp">
@@ -17,7 +17,7 @@
     <div class="cl"></div>
     <button class="btn btn_top anim-btn js-open-callbackkiller" data-toggle="modal" data-target="#modalCalc">Рассчитать стоимость бесплатно</button>
   </div>
-  <div class="col-md-5 no-pad glav_sert__wrap">
+  <div class="col-md-6 no-pad glav_sert__wrap">
     <img alt="Альфа Серт" class="glav_sert" src="img/brands.jpg">
   </div>
 </div>
