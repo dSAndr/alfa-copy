@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="ru">
 <head>
-  <title>Альфа Сертификат</title>
+  <title>Сертификаты для всех маркетплейсов</title>
   <?php include('head.php'); ?>
 </head>
 <body>

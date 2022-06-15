@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title><?=$title?></title>
+<title>Сертификаты для всех маркетплейсов</title>
 <meta name="keywords" content="сертификация и декларирование продукции, заявка на проведение сертификации продукции, сертификация удалённо, процедура сертификации продукции, 	 сертификация продукции москва, расчет стоимости сертификации, регистрация сертификатов соответствия, технический регламент таможенного союза">
 <meta name="description" content="Интересует декларирование и сертификация продукции в России? Услуги сертификации продукции в Москве и удалённо в любом городе – здесь онлайн заявка на проведение сертификации продукции!">
 
