@@ -118,12 +118,12 @@
   }
 </script>
 
-<script src="//api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
+<script src="//api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU&apikey=5884dfc4-226d-4c6d-bd2f-163a4c075d6b" type="text/javascript"></script>
 
 <script>
   window.onload = function () {
       jQuery("#user-city").text(ymaps.geolocation.city);
       jQuery("#user-region").text(ymaps.geolocation.region);
-      jQuery("#user-country").text(ymaps.geolocation.country);      
+      jQuery("#user-country").text(ymaps.geolocation.country);
   }
 </script>
