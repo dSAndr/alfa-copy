@@ -117,3 +117,13 @@
    $(idShow).css("display", "block");
   }
 </script>
+
+<script src="//api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
+
+<script>
+  window.onload = function () {
+      jQuery("#user-city").text(ymaps.geolocation.city);
+      jQuery("#user-region").text(ymaps.geolocation.region);
+      jQuery("#user-country").text(ymaps.geolocation.country);      
+  }
+</script>
